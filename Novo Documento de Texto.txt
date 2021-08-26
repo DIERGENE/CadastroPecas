@@ -1,0 +1,9 @@
+cadastrar as pecas - array de pecas
+
+peca deve possuir mais de 100g para ser cadastrada 
+
+capacidade maxima de pecas cadastrada e mais de 10 unidades
+
+verificar se a peca posssui um nome de mais de 3 caracteres, se sim permitir cadastro
+senão se a peça tiver o nome vazio, notificar o usuario, senão cadastro negado
+
